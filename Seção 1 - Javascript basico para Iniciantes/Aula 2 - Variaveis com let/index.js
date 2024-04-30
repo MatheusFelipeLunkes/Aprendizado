@@ -1,3 +1,4 @@
+// Aula 2 - Variaveis com let
 // Oque são variaveis e para que servem? 
 /*
 Variaveis servem para "Salvar" determinado dado/atributo na memoria do computador.

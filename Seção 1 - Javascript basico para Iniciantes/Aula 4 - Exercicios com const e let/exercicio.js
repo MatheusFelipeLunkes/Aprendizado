@@ -1,3 +1,5 @@
+//Aula 4 - Exercicio com const e let
+
 // Crie a frase abaixo usando variaveis como: nome, sobrenome, idade, peso altura, e calcule seu IMC e seu Ano de nascimento:
 
 // "Matheus Lunkes tem 25 anos, pesa 110 kg tem 1.81 de altura e seu IMC é de 33.576508653582. Matheus nasceu em 1999."
